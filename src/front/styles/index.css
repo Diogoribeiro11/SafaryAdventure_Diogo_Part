@@ -10,9 +10,13 @@
 .carouselContent {
   width: 900px;
 }
-
+ 
 .carouselContent2 {
   width: 600px;
+}
+
+.carouselContent3 {
+  width: 1050px;
 }
 
 .swal-overlay {
